@@ -1,5 +1,6 @@
-package com.example.restservice;
+package com.example.restservice.service;
 
+import com.example.restservice.model.Feedback;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.context.annotation.SessionScope;

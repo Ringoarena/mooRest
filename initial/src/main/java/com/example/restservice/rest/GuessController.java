@@ -1,6 +1,8 @@
-package com.example.restservice;
+package com.example.restservice.rest;
 
 
+import com.example.restservice.model.Feedback;
+import com.example.restservice.service.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

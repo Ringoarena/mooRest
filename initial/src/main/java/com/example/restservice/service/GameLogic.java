@@ -1,4 +1,4 @@
-package com.example.restservice;
+package com.example.restservice.service;
 
 public interface GameLogic {
     String generateAnswer();

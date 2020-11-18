@@ -1,4 +1,6 @@
-package com.example.restservice;
+package com.example.restservice.service;
+
+import com.example.restservice.model.Feedback;
 
 import java.util.List;
 
